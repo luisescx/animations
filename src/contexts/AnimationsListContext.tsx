@@ -16,20 +16,8 @@ export interface ReactNodeProps {
 
 const MOCK: AnimationType[] = [
   {
-    title: 'Animation1',
-    navigationScreenName: 'Home',
-  },
-  {
-    title: 'Animation2',
-    navigationScreenName: 'Home',
-  },
-  {
-    title: 'Animation3',
-    navigationScreenName: 'Home',
-  },
-  {
-    title: 'Animation4',
-    navigationScreenName: 'Home',
+    title: 'Loading',
+    navigationScreenName: 'Loading',
   },
 ];
 
